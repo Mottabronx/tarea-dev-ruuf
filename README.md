@@ -36,7 +36,7 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 Deja acá el link a tu video explicando tu solución con tus palabras
 
-https://youtu.be/PRImmw0rZaE
+https://youtu.be/VHSmKsiVeuA
 
 ---
 
