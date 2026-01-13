@@ -19,6 +19,9 @@ function calculatePanels(
   roofHeight: number
 ): number {
   // Implementa acá tu solución
+
+  // Mapa para guardar resultados ya calculados (Memoización)
+  // La clave será "ancho,alto" y el valor la cantidad máxima
   const memo = new Map<string, number>();
   function solve(w: number, h: number): number {
     // 1. Chequear si esta solución ya existe en nuestro registro
